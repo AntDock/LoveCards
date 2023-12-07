@@ -4,6 +4,8 @@
 
 👀 Main Changes: Feature upgrades
 
+----
+
 <h1 align="center">
   <br>
   <a href="https://lovecards.cn/" alt="logo" ><img src="https://img1.imgtp.com/2023/08/04/TiKztuPI.png" width="150"/></a>
