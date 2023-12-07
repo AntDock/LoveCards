@@ -1,3 +1,9 @@
+⚠️ Please Note: This is a forked (copied) repo for my personal use. Some functions may be customized beyond the original project, but the pace of updates are usually slower. I would not suggest forking my repo into production. If you like some of the additional functions, please provide feedback using Issues. I will consider contributing it to the original repo (I do this regularly). Below is a copy of the original repo's README file.
+
+🔗 Link to Original: https://github.com/LoveCards/LoveCardsV2
+
+👀 Main Changes: Feature upgrades
+
 <h1 align="center">
   <br>
   <a href="https://lovecards.cn/" alt="logo" ><img src="https://img1.imgtp.com/2023/08/04/TiKztuPI.png" width="150"/></a>
